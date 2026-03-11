@@ -21,7 +21,7 @@ Investigations include:
 
 Portfolio Repository:
 
-🔎 https://github.com/chakosg/cybersecurity-investigations
+🔎 https://github.com/chakosg/cybersecurity-portfolio
 
 ## Tools and Technologies
 
